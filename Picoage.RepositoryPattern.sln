@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34322.80
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Picoage.RepositoryPattern", "Picoage.RepositoryPattern\Picoage.RepositoryPattern.csproj", "{5167C52D-D646-4075-8582-7A9D0CBE1C93}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Picoage.RepositoryPattern.Tests", "Picoage.RepositoryPattern.Tests\Picoage.RepositoryPattern.Tests.csproj", "{7EE063EB-67FE-43E2-9E93-5C3CCCA530E6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5167C52D-D646-4075-8582-7A9D0CBE1C93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5167C52D-D646-4075-8582-7A9D0CBE1C93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5167C52D-D646-4075-8582-7A9D0CBE1C93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EE063EB-67FE-43E2-9E93-5C3CCCA530E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EE063EB-67FE-43E2-9E93-5C3CCCA530E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EE063EB-67FE-43E2-9E93-5C3CCCA530E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EE063EB-67FE-43E2-9E93-5C3CCCA530E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
